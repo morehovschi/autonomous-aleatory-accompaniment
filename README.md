@@ -1,7 +1,7 @@
 # autonomous-aleatory-accompaniment
 Max patch that takes short audio recordings, chops them up into specified number of clips, and plays the clips in random order continuously.
 
-Short video demo: https://drive.google.com/file/d/180T9OrNuHddtdI9znfWKbTa0j15qFY8l/view?usp=sharing
+Short video demo: [https://drive.google.com/file/d/180T9OrNuHddtdI9znfWKbTa0j15qFY8l/view?usp=sharing](https://drive.google.com/file/d/1Wg22r7QfoDyp-Ja6nC3kWloctV-Z71wB/view?usp=sharing)
 
 I provide sample clips, but this could be changed to any audio and the patch should work as long as:
 - the drum clips ("kick_s.wav", "snare_s.wav", "closed_h.wav", and "cymbal.wav") are the same length and represent different textures (they don't have to be percussion)
